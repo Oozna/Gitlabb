@@ -1,2 +1,2 @@
 # Gitlabb
-Lab i git och android appar
+Lab i git och appar
